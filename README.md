@@ -17,4 +17,3 @@
 - LinkedIn: [linkedin.com/in/udayanmaurya](https://www.linkedin.com/in/udayanmaurya)
 - YouTube: [@FavoriteCTO](https://www.youtube.com/@FavoriteCTO)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edishu&show_icons=true&theme=dark)
