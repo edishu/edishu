@@ -3,7 +3,7 @@
 **Github (other profile):** https://github.com/udAIan
 
 ## About Me
-- 🚀 Co-founder & CTO at BamBam - AI-powered educational videos for teens
+- 🚀 Co-founder & CTO at BamBam - Personalized cinema
 - 💻 Previously founding engineer at Strada (YC '23)
 - 🎓 B.Tech from IIT-BHU
 - 🎥 YouTube: [Favorite CTO](https://www.youtube.com/@FavoriteCTO)
