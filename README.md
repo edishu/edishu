@@ -1,5 +1,7 @@
 # Hi there, I'm Udayan 👋
 
+**Github (other profile):** https://github.com/udAIan
+
 ## About Me
 - 🚀 Co-founder & CTO at BamBam - AI-powered educational videos for teens
 - 💻 Previously founding engineer at Strada (YC '23)
